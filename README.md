@@ -19,13 +19,13 @@ Download and install the tool according to the following steps.
 ```
 sudo mkdir -m 755 /home/Tools
 cd /home/Tools
-sudo git clone https://github.com/JasperBoom/galaxy-tool-cutadapt-trimmer
-sudo chmod -R 755 galaxy-tool-cutadapt-trimmer
+sudo git clone https://github.com/JasperBoom/galaxy-tool-cutadapt-sequence-trimmer
+sudo chmod -R 755 galaxy-tool-cutadapt-sequence-trimmer
 ```
 ```
 sudo mkdir -m 755 /home/galaxy/tools/directoryname
-sudo cp /home/Tools/galaxy-tool-cutadapt-trimmer/runCutAdapt.sh /home/galaxy/tools/directoryname/runCutAdapt.sh
-sudo cp /home/Tools/galaxy-tool-cutadapt-trimmer/runCutAdapt.xml /home/galaxy/tools/directoryname/runCutAdapt.xml
+sudo cp /home/Tools/galaxy-tool-cutadapt-sequence-trimmer/runCutAdapt.sh /home/galaxy/tools/directoryname/runCutAdapt.sh
+sudo cp /home/Tools/galaxy-tool-cutadapt-sequence-trimmer/runCutAdapt.xml /home/galaxy/tools/directoryname/runCutAdapt.xml
 ```
 Edit the following file in order to make galaxy display the tool.
 ```
