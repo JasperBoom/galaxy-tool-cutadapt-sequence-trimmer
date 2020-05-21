@@ -1,3 +1,19 @@
+<!--
+Copyright (C) 2018 Jasper Boom
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License version 3 as
+published by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+-->
+
 <?xml version="1.0" encoding="utf-8"?>
 <tool id="runCutAdapt" name="CutAdapt Sequence Trimmer:" version="0.11.7">
     <description>
@@ -70,13 +86,5 @@
         .. class:: warningmark
 
         Files in fastQ format should always have a .fastq extension.
-
---------
-
-        Source(s):
-            - **Martin M**, Cutadapt Removes Adapter Sequences From
-              High-throughput Sequencing Reads.
-              EMBnet.journal. 2011. **doi: 10.14806/ej.17.1.200**
-              http://cutadapt.readthedocs.io/en/stable/guide.html
     </help>
 </tool>
