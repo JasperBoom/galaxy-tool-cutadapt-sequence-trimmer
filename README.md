@@ -1,6 +1,6 @@
 # galaxy-tool-cutadapt-sequence-trimmer
 
-__Repo can be deleted, copy is also kept [here](https://github.com/JasperBoom/galaxy-tools-naturalis-internship).__
+__!!Repo can be deleted, copy is also kept [here](https://github.com/JasperBoom/galaxy-tools-naturalis-internship)!!.__
 
 Use CutAdapt to trim and discard reads and read sections.  
 The CutAdapt tool will trim and discard reads and read sections based on user input and quality thresholds.
